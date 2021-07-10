@@ -6,6 +6,8 @@
 
 <h2 align="center" id="Team Members">Team Members</h2>
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTU1ZTBkZTEtNDI5OC00MjdjLWE2MDEtYTYzNjE5Mzg5ODViIiwidCI6IjdlNGMxOWRlLTkwODUtNDk4Ny1hOTBiLWQzZWI5NzUxNTczNiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 ![docs](docs/pics/members.png)
 
 <div id="toc_container">
