@@ -1,4 +1,5 @@
-<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard Practice (Data as of 7/7/2021)</h1> 
+<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard Practice </h1> 
+<h3 id="(Data as of 7/7/2021)"><i>(Data as of 7/7/2021)</i></h3>
 
 <li>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
@@ -20,19 +21,19 @@ This dashboard created by Power BI. The Dashboard shows </div>
 <i><b>Note:</b> Data as of 7/7/2021</i>
 
 ![docs](img/1.png)
-<p align="center">Fig 1:</p>
+<p align="center">Dashboard Page 1</p>
 
 ![docs](img/3.png)
-<p align="center">Fig 2:</p>
+<p align="center">Dashboard Page 2</p>
 
 ![docs](img/4.png)
-<p align="center">Fig 3:</p>
+<p align="center">Dashboard Page 3</p>
 
 ![docs](img/5.png)
-<p align="center">Fig 4:</p>
+<p align="center">Dashboard Page 4</p>
 
 ![docs](img/6.png)
-<p align="center">Fig 5:</p>
+<p align="center">Dashboard Page 5</p>
 
 <h2 id="References Data">References Data</h2>
 <ol>
