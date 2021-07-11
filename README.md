@@ -58,6 +58,8 @@ This dashboard created by Power BI for practicising purpose. :smile: <br>The Das
 <li>
 <a href="https://raw.githubusercontent.com/wiki/djay/covidthailand/vac_timeline.csv">https://raw.githubusercontent.com/wiki/djay/covidthailand/vac_timeline.csv</a>
 </li>
-
+<li>
+<a href="https://djay.github.io/covidthailand">https://djay.github.io/covidthailand</a>
+</li>
 
 </ol>
