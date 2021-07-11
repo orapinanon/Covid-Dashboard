@@ -1,0 +1,1 @@
+http://covid19.th-stat.com/json/covid19v2/getTimeline.json
