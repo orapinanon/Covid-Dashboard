@@ -4,11 +4,9 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
 </li>
 
-<h2 id="1. User Scenario - The Characters">1. User Scenario: The Characters</h2>
-<div align="justify"><h3 id="Who is our target user?">Who is our target user?</h3>
 <div align="justify">Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization</a>
 This dashboard created by Power BI. Dashboard shows </div>  
-- <div align="justify"> Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</div>
+<li><div align="justify"> Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</div></li>
 - <div align="justify"> Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</div>
 - <div align="justify"> New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</div>
 - <div align="justify"> Thailand Vaccination Progress (by brands)</div>
