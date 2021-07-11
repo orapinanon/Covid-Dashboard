@@ -1,4 +1,4 @@
-<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard Practice :chart_with_upwards_trend:</h1> 
+<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Dashboard :chart_with_upwards_trend: (Power BI Practice)</h1> 
 <h3 id="(Data as of 7/7/2021)"><i>(Data as of 7/7/2021)</i></h3>
 
 <li>
