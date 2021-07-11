@@ -22,9 +22,8 @@
 
 <h2 id="1. User Scenario - The Characters">1. User Scenario: The Characters</h2>
 <div align="justify"><h3 id="Who is our target user?">Who is our target user?</h3>
-Inspire by <li>
-<a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization</a>
-</li>. This dashboard created by Power BI. Dashboard shows 
+Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization</a>
+This dashboard created by Power BI. Dashboard shows 
 - <div align="justify"> Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</div>
 - <div align="justify"> Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</div>
 - <div align="justify"> New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</div>
