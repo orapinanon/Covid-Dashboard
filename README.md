@@ -7,7 +7,8 @@
 <br>
 <div align="justify">This dashboard Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization.</a>
 The data combined from various government sources and API.
-This dashboard created by Power BI. The Dashboard shows:</div>  
+This dashboard created by Power BI. The Dashboard contains:</div>  
+<br>
 <li>Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</li>
 <li>Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</li>
 <li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</li>
