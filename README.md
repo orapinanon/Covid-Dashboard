@@ -64,4 +64,3 @@ This dashboard was created by Power BI for practicing purposes. :smile: <br>The 
 
 </ol>
 
-thailand confirmed-cases covid-api covid19-data daily-situation-reports ccsa-daily-briefing proactive-tests health-district
