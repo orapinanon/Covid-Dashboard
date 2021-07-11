@@ -1,14 +1,19 @@
 <h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard</h1> 
 
+<li>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
+</li>
+
 ![docs](img/test.png)
 <p align="center">Fig 9: News Articles Page</p>
 
 
 <h2 id="1. User Scenario - The Characters">1. User Scenario: The Characters</h2>
 <div align="justify"><h3 id="Who is our target user?">Who is our target user?</h3>
-Our objective is to develop a website which can serve as a go-to place for all the information associated with Information Technology in Ireland. Our target audience were students who are willing to pursue their career in IT related fields. The website we developed can be used by all students to identify top IT skills in the market and the job opportunities related to that skill as well as corresponding events happening around them. Along with this, we are also providing them with latest news and twitter feed related to that skill.<br><br>
+This is my repo on recreating the Gapminder visualization using PowerBI. The question that I have know is:
+"Will COVID19 alter the current trend? Will there be a significant change on this plot for the year 2020?"
 
-<i><b>Note:</b> Initially, our target user group was only IT students. But, we realized that there might be students from different background who wish to pursue their careers in IT.</i>
+<i><b>Note:</b> Data as of 7/7/2021</i>
 
 <h3 id="Why are they important?">Why are they important?</h3>
 Over the past decade, Ireland has grown into a Global Technology hub. Ireland, being the second largest exporter of computer and IT services in the world, has successfully attracted 9 of the top 10 global Information Technology companies to establish a significant presence here. As a result, there has been a great increase in the number of international students who want to pursue their career in Technology. Also, the figure of incoming international students is expected to rise even more rapidly in coming years.<br>
@@ -42,19 +47,19 @@ Information we will be providing can be divided into four categories:</div>
 
 
 
-<h2 id="7. References and Key Resources">7. References and Key Resources</h2>
+<h2 id="References Data">7. References Data</h2>
 <ol>
 
 <li>
-<a href="https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/t/lecture/4616316?start=0">https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/t/lecture/4616316?start=0</a>
+<a href="https://data.go.th/dataset/covid-19-daily">https://data.go.th/dataset/covid-19-daily</a>
 </li>
 
 <li>
-<a href="https://www.postgresql.org/docs/current/static/datatype-json.html#JSON-DOC-DESIGN ">https://www.postgresql.org/docs/current/static/datatype-json.html#JSON-DOC-DESIGN</a>
+<a href="https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/67d43695-8626-45ad-9094-dabc374925ab/download/confirmed-cases.xlsx">https://data.go.th/dataset/8a956917-436d-4afd-a2d4-59e4dd8e906e/resource/67d43695-8626-45ad-9094-dabc374925ab/download/confirmed-cases.xlsx</a>
 </li>
 
 <li>
-<a href="https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-A4.pdf">https://www.postgresql.org/files/documentation/pdf/10/postgresql-10-A4.pdf</a>
+<a href="https://covid19.th-stat.com/json/covid19v2/getTimeline.json">https://covid19.th-stat.com/json/covid19v2/getTimeline.json</a>
 </li>
 
 <li>
