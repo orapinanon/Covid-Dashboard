@@ -5,7 +5,9 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
 </li>
 <br>
-<div align="justify">This dashboard Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization.</a>
+<div align="justify">
+I created this dashboard using Power BI for practicing purposes :smile:
+This dashboard was inspired by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization.</a>
 The data combined from various government sources and API. Daily confirmed case report from the Department of Disease Control.
 Thailand Daily vaccinations data from Source: <a href="https://djay.github.io/covidthailand">https://djay.github.io/covidthailand.</a>
 This dashboard was created by Power BI for practicing purposes. :smile: <br>The Dashboard contains:</div>  
