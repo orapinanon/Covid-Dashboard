@@ -26,13 +26,13 @@ This dashboard was created by Power BI for practicing purposes. :smile: <br>The 
 <i><b>Note:</b> Data is filtered by > 1 April 2021 and updated data as of 7 July 2021</i>
 
 ![docs](img/1.png)
-<p align="center">Dashboard Page 1 (Can click Play! :white_check_mark:)</p>
+<p align="center">Dashboard Page 1 Can click Play! :white_check_mark:</p>
 
 ![docs](img/3.png)
 <p align="center">Dashboard Page 2</p>
 
 ![docs](img/4.png)
-<p align="center">Dashboard Page 3(Can click Play! :white_check_mark:)</p>
+<p align="center">Dashboard Page 3 Can click Play! :white_check_mark:</p>
 
 ![docs](img/5.png)
 <p align="center">Dashboard Page 4</p>
