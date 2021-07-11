@@ -4,8 +4,21 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
 </li>
 
-![docs](img/test.png)
-<p align="center">Fig 9: News Articles Page</p>
+![docs](img/1.png)
+![docs](img/2.png)
+<p align="center">Fig 1:</p>
+
+![docs](img/3png)
+<p align="center">Fig 2:</p>
+
+![docs](img/4png)
+<p align="center">Fig 3:</p>
+
+![docs](img/5.png)
+<p align="center">Fig 4:</p>
+
+![docs](img/6png)
+<p align="center">Fig 5:/p>
 
 
 <h2 id="1. User Scenario - The Characters">1. User Scenario: The Characters</h2>
