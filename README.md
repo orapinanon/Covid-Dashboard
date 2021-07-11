@@ -1,4 +1,4 @@
-<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard Practice </h1> 
+<h1 align="center" id="Covid-19 Thailand Power BI Dashboard">Covid-19 Thailand Power BI Dashboard Practice :chart_with_upwards_trend:</h1> 
 <h3 id="(Data as of 7/7/2021)"><i>(Data as of 7/7/2021)</i></h3>
 
 <li>
@@ -11,13 +11,13 @@ Thailand Daily vaccinations data from Source: <a href="https://djay.github.io/co
 This dashboard created by Power BI for practicising purpose. :smile: <br>The Dashboard contains:</div>  
 <br>
 <div align="justify">
-<li>Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</li>
+<li>Summary of confirmed cases, death cases, recovered cases, and sum of Vaccine given</li>
 <li>Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</li>
 <li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</li>
 <li>Thailand Vaccination Progress (by brands)</li>
 <li>Vaccine Given by Province (show only the province which >200,000 doses given)</li>
 <li>Males and Females Confirmed cases per day by Cluster (>1000 cases) Play Axis By Dates</li>
-<li>onfirmed cases by nationality</li>
+<li>Confirmed cases by nationality</li>
 <li>Confirmed cases by Cluster</li>
 <li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date (Simple Forecasting function in Power BI)</li>
 <li>Thailand Vaccination Progress (Simple Forecasting function in Power BI)</li></div>  
