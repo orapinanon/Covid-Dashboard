@@ -10,7 +10,7 @@ I created this dashboard using Power BI for practicing purposes :smile:
 This dashboard was inspired by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization.</a>
 The data combined from various government sources and API. Daily confirmed case report from the Department of Disease Control.
 Thailand Daily vaccinations data from Source: <a href="https://djay.github.io/covidthailand">https://djay.github.io/covidthailand.</a>
-This dashboard was created by Power BI for practicing purposes. :smile: <br>The Dashboard contains:</div>  
+<br>The Dashboard contains:</div>  
 <br>
 <div align="justify">
 <li>Summary of confirmed cases, death cases, recovered cases, and sum of Vaccine given</li>
