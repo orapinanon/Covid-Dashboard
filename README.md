@@ -5,19 +5,18 @@
 </li>
 
 ![docs](img/1.png)
-![docs](img/2.png)
 <p align="center">Fig 1:</p>
 
-![docs](img/3png)
+![docs](img/3.png)
 <p align="center">Fig 2:</p>
 
-![docs](img/4png)
+![docs](img/4.png)
 <p align="center">Fig 3:</p>
 
 ![docs](img/5.png)
 <p align="center">Fig 4:</p>
 
-![docs](img/6png)
+![docs](img/6.png)
 <p align="center">Fig 5:/p>
 
 
