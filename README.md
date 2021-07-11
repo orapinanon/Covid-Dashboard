@@ -7,15 +7,15 @@
 <div align="justify">Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization</a>
 This dashboard created by Power BI. The Dashboard shows </div>  
 <li>Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</li>
-<div align="justify"> Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</div>
-<div align="justify"> New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</div>
-<div align="justify"> Thailand Vaccination Progress (by brands)</div>
-<div align="justify"> Vaccine Given by Province (show only the province which >200,000 doses given)</div>
-<div align="justify"> Males and Females Confirmed cases per day by Cluster (>1000 cases) Play Axis By Dates</div>
-<div align="justify"> Confirmed cases by nationality</div>
-<div align="justify"> Confirmed cases by Cluster</div>
-<div align="justify"> New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date (Simple Forecasting function in Power BI)</div>
-<div align="justify"> Thailand Vaccination Progress (Simple Forecasting function in Power BI)</div>
+<li>Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</li>
+<li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</li>
+<li>Thailand Vaccination Progress (by brands)</li>
+<li>Vaccine Given by Province (show only the province which >200,000 doses given)</li>
+<li>Males and Females Confirmed cases per day by Cluster (>1000 cases) Play Axis By Dates</li>
+<li>onfirmed cases by nationality</li>
+<li>Confirmed cases by Cluster</li>
+<li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date (Simple Forecasting function in Power BI)</li>
+<li>Thailand Vaccination Progress (Simple Forecasting function in Power BI)</li>
 
 <i><b>Note:</b> Data as of 7/7/2021</i>
 
