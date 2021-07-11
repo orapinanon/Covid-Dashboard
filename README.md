@@ -5,8 +5,9 @@
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMDU2YTQ0MTQtMTViMy00NjI5LThlMDctZGRiZDZmZTU2ZDkzIiwidCI6ImZkMjA2NzE1LTc1MDktNGFlNS05Yjk2LTc2YmI5Nzg4NmE4NCIsImMiOjEwfQ%3D%3D">LINK to Power BI Dashboard</a>
 </li>
 <br>
-<div align="justify">Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization</a>
-This dashboard created by Power BI. The Dashboard shows </div>  
+<div align="justify">This dashboard Inspire by <a href="https://www.gapminder.org/tools/#$chart-type=bubbles&url=v1">Gapminder visualization.</a>
+The data combined from various government sources and API.
+This dashboard created by Power BI. The Dashboard shows:</div>  
 <li>Summary of comfirmed cases, death cases, recovered cases and sum of Vaccine given</li>
 <li>Males and Females Confirmed cases per day by Province (>1000 cases) Play Axis By Dates.</li>
 <li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date</li>
@@ -18,6 +19,7 @@ This dashboard created by Power BI. The Dashboard shows </div>
 <li>New Confirmed, New Recovered, Deaths Cumulative and New Deaths by Date (Simple Forecasting function in Power BI)</li>
 <li>Thailand Vaccination Progress (Simple Forecasting function in Power BI)</li>
 
+<br>
 <i><b>Note:</b> Data as of 7/7/2021</i>
 
 ![docs](img/1.png)
